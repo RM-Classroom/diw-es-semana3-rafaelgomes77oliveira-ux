@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+aside{
+    background-color: antiquewhite;
+    width: 355px;
+    height: 100%;
+    display: inline-block;
+    padding-left: 5px;
+    border: 50px;
+}
+img{
+    margin: 0px;
+    padding: 10px 0px 30px 10px;
+    
+}
+div{
+    display: grid; 
+    grid-template-columns: 360px 1fr;
+    min-height: 100vh;
+}
+h2{
+    text-indent: 0px;
+}
+header{
+    background-color: antiquewhite;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    height: 200px;
+}
+section{
+    margin: 15px 20px 0px;
+}
